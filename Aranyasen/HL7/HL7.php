@@ -1,10 +1,10 @@
 <?php
 
-namespace Aranyasen;
+namespace HL7;
 
 use InvalidArgumentException;
-use Aranyasen\HL7\Message;
-use Aranyasen\HL7\Segments\MSH;
+use HL7\Message;
+use HL7\Segments\MSH;
 
 /**
  * The HL7 class is a factory class for HL7 messages.

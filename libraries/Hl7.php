@@ -11,7 +11,7 @@ class Hl7
     public function load()
     {
         require_once APPPATH . 'third_party/Aranyasen/autoloader.php';
-        $objHl7 = new Hl7;
+        $objHl7 = new HL7;
         return $objHl7;
     }
 }

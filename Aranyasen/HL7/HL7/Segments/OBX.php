@@ -1,8 +1,8 @@
 <?php
 
-namespace Aranyasen\HL7\Segments;
+namespace HL7\Segments;
 
-use Aranyasen\HL7\Segment;
+use HL7\Segment;
 
 /**
  * OBX segment class

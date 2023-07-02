@@ -1,9 +1,9 @@
 <?php
 
-namespace Aranyasen\HL7;
+namespace HL7;
 
-use Aranyasen\Exceptions\HL7Exception;
-use Aranyasen\HL7\Segments\MSH;
+use HL7\Exceptions\HL7Exception;
+use HL7\Segments\MSH;
 use InvalidArgumentException;
 
 /**
